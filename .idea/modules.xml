@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/Java-MVC.iml" filepath="$PROJECT_DIR$/.idea/Java-MVC.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Lab 1 B/Lab1-B/lab.iml" filepath="$PROJECT_DIR$/Lab 1 B/Lab1-B/lab.iml" />
+    </modules>
+  </component>
+</project>
